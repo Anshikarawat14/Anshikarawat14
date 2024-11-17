@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anshika Rawat.</h2>
+<h2 align="left">Hi 👋! My name is Anshika Rawat.a B.Tech Software Engineering student currently in my 3rd semester. I enjoy problem-solving and building efficient solutions using C++ and Java. Check out my projects showcasing my passion for coding and continuous learning!</h2>
 
 ###
 

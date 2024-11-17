@@ -1,6 +1,5 @@
-<h2 align="left">Hi 👋! My name is Anshika Rawat.a B.Tech Software Engineering student currently in my 3rd year I enjoy problem-solving and building efficient solutions using C++ and Java. Check out my projects showcasing my passion for coding and continuous learning!</h2>
+<h2 align="left">Hi 👋! My name is Anshika Rawata, B.Tech Software Engineering student in my 3rd semester. I specialize in C++ but love exploring various technologies and programming languages. My projects reflect a passion for problem-solving and continuous learning—check them out!
 
-###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritik013&label=Profile%20views&color=0e75b6&style=flat" alt="hritik013" /> </p>
 

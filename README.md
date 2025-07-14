@@ -1,3 +1,5 @@
+<div style="background-color: #ffe6f0; padding: 20px; border-radius: 10px;">
+
 <h2 align="left">Hi 👋! I am Anshika Rawat, B.Tech Software Engineering student in my 4th year. I specialize in C++ but love exploring various technologies and programming languages. My projects reflect a passion for problem-solving and continuous learning—check them out!
 </h2>
 

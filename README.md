@@ -53,7 +53,6 @@
   <img width="12"/>
           
 </div>
-##
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anshikarawat14/Anshikarawat14/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anshikarawat14/Anshikarawat14/output/pacman-contribution-graph.svg">

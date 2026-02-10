@@ -6,7 +6,7 @@
 
 ## 🖐️ About Me
 - My name is **Anshika Rawat** <img src="https://i.pinimg.com/originals/9e/25/a1/9e25a15f2aae61fb18f7782b65b6baf7.gif" width="120" align="right"/>
-- My major is **Computer Science Engineering (Final Year)**
+- Currently a **Computer Science Engineering (Final Year)** student
 - Primary focus: **Problem Solving, Full-Stack Development & Core CS**
 - Strong interest in **DSA, system fundamentals, and scalable applications**
 - Currently improving DSA consistency and real-world project depth
@@ -51,13 +51,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" alt="C++ logo/>
   <img width="12"/>
-          
 </div>
+
+<div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anshikarawat14/Anshikarawat14/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anshikarawat14/Anshikarawat14/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anshikarawat14/Anshikarawat14/output/pacman-contribution-graph.svg">
 </picture>
+</div>
+
 
 ##
 > 💬 _Always open to meaningful conversations, tech collaboration, and exploring new ideas and technology.._

@@ -11,7 +11,7 @@
 - Strong interest in **DSA, system fundamentals, and scalable applications**
 - Currently improving DSA consistency and real-world project depth
 - I'm interested in coding, calligraphy and sleeping
-- My quote is ***"It's never too late for me - never too late to start over, I know I can and I will"***
+- My quote is ***"It's not hard, It's new - I know I can and I will"***
 
 ## 🌐 Connect With Me
 
